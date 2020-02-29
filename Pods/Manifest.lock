@@ -1,0 +1,27 @@
+PODS:
+  - B_Category (1):
+    - CTMediator
+  - CTMediator (25)
+  - HandyFrame (1.2.0)
+
+DEPENDENCIES:
+  - B_Category (from `../B_Category`)
+  - HandyFrame
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CTMediator
+    - HandyFrame
+
+EXTERNAL SOURCES:
+  B_Category:
+    :path: "../B_Category"
+
+SPEC CHECKSUMS:
+  B_Category: 99228c38f4d5196277d91d0b4257d8cda8f8f555
+  CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
+  HandyFrame: 437df83ba7563c56cd55b9bd0128561995463110
+
+PODFILE CHECKSUM: 0a202cc8eee9b82b52a69168df7ca3010e17c1de
+
+COCOAPODS: 1.5.3
